@@ -11,10 +11,37 @@ package quiz;
  */
 public class Quiz {
 
-
-
-
-
+    private String titreQuiz;
 
     
+    
+    public String getTitreQuiz() {
+        return titreQuiz;
+    }
+
+    public void setTitreQuiz(String titreQuiz) {
+        this.titreQuiz = titreQuiz;
+    }
+
+    
+    
+    public void questionquiz(){
+        
+//       Question q1 = new Question;
+//       Question q2 = new Question;
+//       Question q3 = new Question;
+//       Question q4 = new Question; 
+//       Question q5 = new Question;
+//       Question q6 = new Question;
+//       Question q7 = new Question;
+    }
+    
+    public void jouerQuiz() {
+
+     
+        
+        
+        
+    }
+
 }
